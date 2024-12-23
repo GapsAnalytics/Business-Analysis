@@ -1,6 +1,12 @@
 # Sales Analysis for a Pizza store
 ### Project Overview
 This analysis aims to provide insights into the sales performance of a pizza restaurant between January 2015 to December 2015. By analyzing various aspects of the data, we seek to identify KPI, trends, make data driven recommendations and gain deeper understanding of the companys performances.
+### Dashboard with KPI
+![pizza sales home dashboard](https://github.com/user-attachments/assets/61a380a9-d741-4ac8-93c1-a3f211e9a671)
+![pizza sales best and worst seller dashboard](https://github.com/user-attachments/assets/80dec724-735f-4fc4-8528-34d9b2432b6a)
+
+![Pizza sales kpi with postgresql](https://github.com/user-attachments/assets/334cebeb-fd9b-4467-ba69-64b0529715b1)
+
 ### Data Source
 Pizza Sales Data: The primary dataset used for this analysis is the “pizza_sales.csv” file containing detailed information about each order made by customers in the restaurant.
 ### Tools
